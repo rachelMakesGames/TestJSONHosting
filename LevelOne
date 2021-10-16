@@ -1,0 +1,7 @@
+{
+	"BlockPattern" : [
+		{ "BrickOne" : "NormalBrick", "BrickTwo" : "NormalBrick", "BrickThree" : "NormalBrick", "BrickFour" : "NormalBrick", "BrickFive" : "NormalBrick", "BrickSix" : "NormalBrick", "BrickSeven" : "NormalBrick", "BrickEight" : "NormalBrick", "BrickNine" : "NormalBrick", "BrickTen" : "NormalBrick", "BrickEleven" : "NormalBrick", "BrickTwelve" : "NormalBrick"},
+		{ "BrickOne" : "NormalBrick", "BrickTwo" : "NormalBrick", "BrickThree" : "NormalBrick", "BrickFour" : "NormalBrick", "BrickFive" : "NormalBrick", "BrickSix" : "NormalBrick", "BrickSeven" : "NormalBrick", "BrickEight" : "NormalBrick", "BrickNine" : "NormalBrick", "BrickTen" : "NormalBrick", "BrickEleven" : "NormalBrick", "BrickTwelve" : "NormalBrick"},
+		{ "BrickOne" : "NormalBrick", "BrickTwo" : "NormalBrick", "BrickThree" : "NormalBrick", "BrickFour" : "NormalBrick", "BrickFive" : "NormalBrick", "BrickSix" : "NormalBrick", "BrickSeven" : "NormalBrick", "BrickEight" : "NormalBrick", "BrickNine" : "NormalBrick", "BrickTen" : "NormalBrick", "BrickEleven" : "NormalBrick", "BrickTwelve" : "NormalBrick"},
+		{ "BrickOne" : "NormalBrick", "BrickTwo" : "NormalBrick", "BrickThree" : "NormalBrick", "BrickFour" : "NormalBrick", "BrickFive" : "NormalBrick", "BrickSix" : "NormalBrick", "BrickSeven" : "NormalBrick", "BrickEight" : "NormalBrick", "BrickNine" : "NormalBrick", "BrickTen" : "NormalBrick", "BrickEleven" : "NormalBrick", "BrickTwelve" : "NormalBrick"},
+}
